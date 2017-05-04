@@ -1,1 +1,1 @@
-# Stubs for abcWalletTxLib-btc
+# Fakes for airbitz-react-gui

@@ -2,7 +2,7 @@
 
 const faker = require('faker')
 
-export const dataStore = {
+export const FakeTxEnginePrivate = {
   initOptions: undefined,
   masterPrivateKey: undefined, // PRIVATEgjXJSvjNRSLic2xvcep9AP9n1UKwC2CwmXb3Y5sSNspyr
   masterPublicKey: undefined, // PUBLICDgjXJSvjNRSLic2xvcep9AP9n1UKwC2CwmXb3Y5sSNspyr
